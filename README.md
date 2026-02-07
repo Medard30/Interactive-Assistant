@@ -42,7 +42,7 @@ project-folder/
 How to Run
 - Make sure you have Python 3.8+ installed.
 - Clone the repository:
-git clone https://github.com/Medard30/Python-Assistant.git
+git clone https://github.com/Medard30/Interactive-Assistant.git
 - Navigate into the project folder:
 cd gold-cli-assistant
 - Run the program:

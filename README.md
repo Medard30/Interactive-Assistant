@@ -46,7 +46,7 @@ git clone https://github.com/Medard30/Interactive-Assistant.git
 - Navigate into the project folder:
 cd gold-cli-assistant
 - Run the program:
-python main.py
+python assist2.py
 
 
 
